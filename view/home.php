@@ -49,7 +49,7 @@ $emailUsuario = $_SESSION['emailUsuario'];
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-8">
-                                        <div class="form-group w-100"> <label>Publicar sua ideia</label>
+                                        <div class="form-group w-100"> <label>Publique sua ideia</label>
                                             <textarea class="form-control" id="exampleInputEmail1" placeholder="Max: 255"
                                                       type="text" max="255" maxlength="255" name="publicacao" style=" height: 140px; resize: none;"></textarea>
                                         </div>
